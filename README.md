@@ -12,6 +12,7 @@ Date: 28 October 2025
 
 📋 Project Overview --
 
+
 This project is a personal portfolio website developed using HTML and External CSS.
 It showcases different sections like About Me, Projects, Skills, and Contact, styled using CSS selectors, color themes, and typography to create a professional and visually appealing layout.
 The goal is to demonstrate mastery of CSS core concepts, the box model, and positioning techniques.
@@ -20,6 +21,7 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 ---
 
 🎯 Objectives:
+
 
 
 1). Apply an external CSS stylesheet to manage webpage styling effectively.
@@ -43,6 +45,7 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 🧰 Technologies Used:
 
 
+
 1). HTML
 
 2). CSS (External Stylesheet)
@@ -58,6 +61,7 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 ---
 
 🧩 Key Features:
+
 
 
 1). 🎨 Consistent and elegant color scheme (HEX/RGB values)
@@ -76,13 +80,14 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 
 8). 📌 Sticky header or Back to Top button using CSS positioning
 
-9). 💡 Visual separators using <hr> and box shadows
+9). 💡 Visual separators using (<HR>) and box shadows
 
 
 
 ---
 
 📁 Project Structure
+
 
 📦 portfolio-project
  ┣ 📜 index.html
@@ -96,6 +101,7 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 
 
 ✨ Preview of the Output:
+
 
 
 1). A clean, modern personal portfolio webpage
@@ -115,6 +121,7 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 🧠 Learning Outcomes:
 
 
+
 1). Enhanced understanding of external CSS organization.
 
 2). Improved ability to design and format webpages using selectors and layout properties.
@@ -128,6 +135,8 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 ---
 
 🧾 References:
+
+
 
 W3Schools – CSS Tutorial
 
