@@ -139,14 +139,15 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 
 ---
 
-Can be accessed using this link: gh repo clone agrimamishra288-tech/portfolio-project
+Can be accessed using this link: https://github.com/agrimamishra288-tech/portfolio-project.git
 
-              OR
+            OR---
+            
+
+            gh repo clone agrimamishra288-tech/portfolio-project
               
 
-              https://github.com/agrimamishra288-tech/portfolio-project.git
-
-
+        
            
 ---
 
