@@ -2,10 +2,15 @@ Personal Portfolio Website (using CSS and HTML)
 
 
 Course: Web Development I
+
 Assignment: Lab 2 – External CSS Styling
+
 Student Name: Agrima Mishra
+
 Roll No: 2501010207
+
 Date: 28 October 2025
+
 
 
 ---
@@ -80,7 +85,7 @@ The goal is to demonstrate mastery of CSS core concepts, the box model, and posi
 
 8). 📌 Sticky header or Back to Top button using CSS positioning
 
-9). 💡 Visual separators using (<HR>) and box shadows
+9). 💡 Visual separators using box shadows and horizontal tag
 
 
 
